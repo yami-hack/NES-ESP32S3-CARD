@@ -1,0 +1,6 @@
+build/
+.vscode/
+main/.git/
+.devcontainer
+.git.7z
+main/nes_data.h
